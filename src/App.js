@@ -1,7 +1,8 @@
+import AddUserForm from "./components/AddUserForm";
 function App() {
   return (
     <div className="App">
-      <h2>Hello World</h2>
+      <AddUserForm />
     </div>
   );
 }
